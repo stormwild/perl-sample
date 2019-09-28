@@ -25,7 +25,7 @@ main();
 ## Run
 
 ```bash
-perl main.ph
+perl main.pl
 ```
 
 Outputs
